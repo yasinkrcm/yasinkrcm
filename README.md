@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Yasin KARAÇAM, and I am a 2nd-year Computer Engineering student at Iğdır University, passionate about developing my skills in the field of artificial intelligence. My primary focus is on Python programming, particularly in the area of computer vision. I am actively working on projects and studies related to this field. My long-term goal is to specialize in Deep Learning and grow into a Senior Developer.
+My name is Yasin, and I am a 2nd-year Computer Engineering student at Iğdır University, passionate about developing my skills in the field of artificial intelligence. My primary focus is on Python programming, particularly in the area of computer vision. I am actively working on projects and studies related to this field. My long-term goal is to specialize in Deep Learning and grow into a Senior Developer.
 
 
 ## 🌐 Socials:
